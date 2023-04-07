@@ -1,0 +1,63 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "bd4c8f69b86ff77988e029b081ecf6a7",
+    "packages": [
+        {
+            "name": "parf/spartan-test",
+            "version": "3.1.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/parf/spartan-test.git",
+                "reference": "49d2840cf092106209f52ce5f6fe745b0898aa6a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/parf/spartan-test/zipball/49d2840cf092106209f52ce5f6fe745b0898aa6a",
+                "reference": "49d2840cf092106209f52ce5f6fe745b0898aa6a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "bin": [
+                "bin/stest",
+                "bin/stest-all"
+            ],
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sergey Parf",
+                    "email": "sergey.porfiriev@gmail.com"
+                }
+            ],
+            "description": "PHP 8 Unit and Web Testing Utility",
+            "keywords": [
+                "unit test",
+                "utility",
+                "web test"
+            ],
+            "support": {
+                "issues": "https://github.com/parf/spartan-test/issues",
+                "source": "https://github.com/parf/spartan-test/tree/3.1.7"
+            },
+            "time": "2023-04-05T22:48:01+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

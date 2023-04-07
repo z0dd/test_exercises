@@ -1,0 +1,6 @@
+/.idea
+/reports
+.env
+.php_cs.cache
+.DS_Store
+/.scannerwork

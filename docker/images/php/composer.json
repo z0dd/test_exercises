@@ -1,0 +1,5 @@
+{
+    "require": {
+        "parf/spartan-test": "^3.1"
+    }
+}
